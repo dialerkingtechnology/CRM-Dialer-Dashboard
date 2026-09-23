@@ -52,5 +52,4 @@ DialerKing develops smart contact center Software solutions that help businesses
 </p>
 
 <img width="4000" height="1830" alt="Custom CRM Admin Screen" src="https://github.com/user-attachments/assets/6ee3c34f-1b92-4d42-b2ea-7d3d585e3091" />
-<img width="4000" height="2151" alt="CRM summary" src="https://github.com/user-attachments/assets/914990ba-52d8-4562-802d-f00a93afea33" />
 
