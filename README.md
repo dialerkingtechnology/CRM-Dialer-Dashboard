@@ -51,5 +51,4 @@ https://dialerking.com/service/crm-dialer/
 DialerKing develops smart contact center Software solutions that help businesses improve calling efficiency, simplify workflows, and manage customer communications more effectively.
 </p>
 
-<img width="4000" height="1830" alt="Custom CRM Admin Screen" src="https://github.com/user-attachments/assets/6ee3c34f-1b92-4d42-b2ea-7d3d585e3091" />
 
